@@ -3,4 +3,4 @@ const nextConfig = {
     basePath: '/nextjs',
 };
 
-export default nextConfig;
+module.exports = nextConfig;
